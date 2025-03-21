@@ -4,20 +4,19 @@
 .header {
   display: flex;
   flex-direction: row;
-  justify-content: space-between ;
+  justify-content: space-between;
   height: 100px;
   align-items: center;
 }
 .left-section {
-  width: 100px;;
-  background-color: lightblue;
+  width: 100px;
+  background-color: lightpink;
 }
 .center-section {
-  width: 100px;;
-  background-color: lightblue;
+  width: 100px;
+  background-color: lightpink;
 }
 .right-section {
-  width: 100px;;
-  background-color: lightblue;
-} 
-
+  width: 100px;
+  background-color: lightpink;
+}
